@@ -1,0 +1,15 @@
+C:\Users\Дмитрий\Desktop\Objective000\Objective004\bin\Debug\net6.0\Objective004.exe
+C:\Users\Дмитрий\Desktop\Objective000\Objective004\bin\Debug\net6.0\Objective004.deps.json
+C:\Users\Дмитрий\Desktop\Objective000\Objective004\bin\Debug\net6.0\Objective004.runtimeconfig.json
+C:\Users\Дмитрий\Desktop\Objective000\Objective004\bin\Debug\net6.0\Objective004.dll
+C:\Users\Дмитрий\Desktop\Objective000\Objective004\bin\Debug\net6.0\Objective004.pdb
+C:\Users\Дмитрий\Desktop\Objective000\Objective004\obj\Debug\net6.0\Objective004.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\Desktop\Objective000\Objective004\obj\Debug\net6.0\Objective004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дмитрий\Desktop\Objective000\Objective004\obj\Debug\net6.0\Objective004.AssemblyInfoInputs.cache
+C:\Users\Дмитрий\Desktop\Objective000\Objective004\obj\Debug\net6.0\Objective004.AssemblyInfo.cs
+C:\Users\Дмитрий\Desktop\Objective000\Objective004\obj\Debug\net6.0\Objective004.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Desktop\Objective000\Objective004\obj\Debug\net6.0\Objective004.dll
+C:\Users\Дмитрий\Desktop\Objective000\Objective004\obj\Debug\net6.0\refint\Objective004.dll
+C:\Users\Дмитрий\Desktop\Objective000\Objective004\obj\Debug\net6.0\Objective004.pdb
+C:\Users\Дмитрий\Desktop\Objective000\Objective004\obj\Debug\net6.0\Objective004.genruntimeconfig.cache
+C:\Users\Дмитрий\Desktop\Objective000\Objective004\obj\Debug\net6.0\ref\Objective004.dll
